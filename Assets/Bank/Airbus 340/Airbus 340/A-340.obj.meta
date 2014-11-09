@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: de6f975b4aa6ddf4f84561f2af737e1e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: A340_Engine2_A340_HN Null_A340 Fbx_Root
+    100004: A340_Engine2_A340_HN Null_A340 Fbx_Root A340_Engine2_L
+    100006: A340_Engine2_A340_HN Null_A340 Fbx_Root A340_Engine2_R
+    100008: A340_Engine2_A340_HN Null_A340 Fbx_Root_MeshPart0
+    100010: A340_Engine2_A340_HN Null_A340 Fbx_Root_MeshPart1
+    100012: A340_HN_Null_A340 Fbx_Root A340_Body
+    100014: A340_HN_Null_A340 Fbx_Root A340_Body a340_body_stuff
+    100016: A340_HN_Null_A340 Fbx_Root A340_Body a340_body_stuff a340_body_stuff2
+    100018: A340_HN_Null_A340 Fbx_Root A340_Body A340_Gear_Cap_F_R Null_Body_Gear_Caps
+    100020: A340_HN_Null_A340 Fbx_Root A340_Body A340_ruder
+    100022: A340_HN_Null_A340 Fbx_Root A340_Body A340_Tail_rear_L
+    100024: A340_HN_Null_A340 Fbx_Root A340_Body A340_Tail_rear_L A340_Tail_Elevator
+      Null_A340_Tail_Elevator
+    100026: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L
+    100028: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_1 Null_A340_Flap_1
+    100030: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_2 Null_A340_Flap_2
+    100032: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_3 Null_A340_Flap_3
+    100034: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Gear_R_inside
+    100036: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R
+    100038: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_1R Null_A340_Flap_1R
+    100040: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_2R Null_A340_Flap_2R
+    100042: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_3R Null_A340_Flap_3R
+    100044: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Gear_R_insideR
+    100046: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_rear_R
+    100048: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_rear_R A340_Tail_ElevatorR
+      Null_A340_Tail_ElevatorR
+    100050: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_F_L
+    100052: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_L
+    100054: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_M_L
+    100056: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_M_R
+    100058: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_R
+    100060: A340_HN_Null_A340 Fbx_Root A340_Engine1
+    100062: A340_HN_Null_A340 Fbx_Root A340_Engine1 A340_Engine1_L
+    100064: A340_HN_Null_A340 Fbx_Root A340_Engine1 A340_Engine1_R
+    100066: A340_HN_Null_A340 Fbx_Root A340_Engine1_MeshPart0
+    100068: A340_HN_Null_A340 Fbx_Root A340_Engine1_MeshPart1
+    100070: A340_HN_Null_A340 Fbx_Root A340_gear_R Null_Gear
+    100072: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_F
+    100074: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_L
+    100076: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_M
+    400000: //RootNode
+    400002: A340_Engine2_A340_HN Null_A340 Fbx_Root
+    400004: A340_Engine2_A340_HN Null_A340 Fbx_Root A340_Engine2_L
+    400006: A340_Engine2_A340_HN Null_A340 Fbx_Root A340_Engine2_R
+    400008: A340_Engine2_A340_HN Null_A340 Fbx_Root_MeshPart0
+    400010: A340_Engine2_A340_HN Null_A340 Fbx_Root_MeshPart1
+    400012: A340_HN_Null_A340 Fbx_Root A340_Body
+    400014: A340_HN_Null_A340 Fbx_Root A340_Body a340_body_stuff
+    400016: A340_HN_Null_A340 Fbx_Root A340_Body a340_body_stuff a340_body_stuff2
+    400018: A340_HN_Null_A340 Fbx_Root A340_Body A340_Gear_Cap_F_R Null_Body_Gear_Caps
+    400020: A340_HN_Null_A340 Fbx_Root A340_Body A340_ruder
+    400022: A340_HN_Null_A340 Fbx_Root A340_Body A340_Tail_rear_L
+    400024: A340_HN_Null_A340 Fbx_Root A340_Body A340_Tail_rear_L A340_Tail_Elevator
+      Null_A340_Tail_Elevator
+    400026: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L
+    400028: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_1 Null_A340_Flap_1
+    400030: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_2 Null_A340_Flap_2
+    400032: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_3 Null_A340_Flap_3
+    400034: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Gear_R_inside
+    400036: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R
+    400038: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_1R Null_A340_Flap_1R
+    400040: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_2R Null_A340_Flap_2R
+    400042: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_3R Null_A340_Flap_3R
+    400044: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Gear_R_insideR
+    400046: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_rear_R
+    400048: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_rear_R A340_Tail_ElevatorR
+      Null_A340_Tail_ElevatorR
+    400050: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_F_L
+    400052: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_L
+    400054: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_M_L
+    400056: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_M_R
+    400058: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_R
+    400060: A340_HN_Null_A340 Fbx_Root A340_Engine1
+    400062: A340_HN_Null_A340 Fbx_Root A340_Engine1 A340_Engine1_L
+    400064: A340_HN_Null_A340 Fbx_Root A340_Engine1 A340_Engine1_R
+    400066: A340_HN_Null_A340 Fbx_Root A340_Engine1_MeshPart0
+    400068: A340_HN_Null_A340 Fbx_Root A340_Engine1_MeshPart1
+    400070: A340_HN_Null_A340 Fbx_Root A340_gear_R Null_Gear
+    400072: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_F
+    400074: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_L
+    400076: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_M
+    2300000: A340_Engine2_A340_HN Null_A340 Fbx_Root A340_Engine2_L
+    2300002: A340_Engine2_A340_HN Null_A340 Fbx_Root A340_Engine2_R
+    2300004: A340_Engine2_A340_HN Null_A340 Fbx_Root_MeshPart0
+    2300006: A340_Engine2_A340_HN Null_A340 Fbx_Root_MeshPart1
+    2300008: A340_HN_Null_A340 Fbx_Root A340_Body
+    2300010: A340_HN_Null_A340 Fbx_Root A340_Body a340_body_stuff
+    2300012: A340_HN_Null_A340 Fbx_Root A340_Body a340_body_stuff a340_body_stuff2
+    2300014: A340_HN_Null_A340 Fbx_Root A340_Body A340_Gear_Cap_F_R Null_Body_Gear_Caps
+    2300016: A340_HN_Null_A340 Fbx_Root A340_Body A340_ruder
+    2300018: A340_HN_Null_A340 Fbx_Root A340_Body A340_Tail_rear_L
+    2300020: A340_HN_Null_A340 Fbx_Root A340_Body A340_Tail_rear_L A340_Tail_Elevator
+      Null_A340_Tail_Elevator
+    2300022: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L
+    2300024: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_1 Null_A340_Flap_1
+    2300026: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_2 Null_A340_Flap_2
+    2300028: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_3 Null_A340_Flap_3
+    2300030: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Gear_R_inside
+    2300032: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R
+    2300034: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_1R Null_A340_Flap_1R
+    2300036: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_2R Null_A340_Flap_2R
+    2300038: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_3R Null_A340_Flap_3R
+    2300040: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Gear_R_insideR
+    2300042: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_rear_R
+    2300044: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_rear_R A340_Tail_ElevatorR
+      Null_A340_Tail_ElevatorR
+    2300046: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_F_L
+    2300048: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_L
+    2300050: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_M_L
+    2300052: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_M_R
+    2300054: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_R
+    2300056: A340_HN_Null_A340 Fbx_Root A340_Engine1 A340_Engine1_L
+    2300058: A340_HN_Null_A340 Fbx_Root A340_Engine1 A340_Engine1_R
+    2300060: A340_HN_Null_A340 Fbx_Root A340_Engine1_MeshPart0
+    2300062: A340_HN_Null_A340 Fbx_Root A340_Engine1_MeshPart1
+    2300064: A340_HN_Null_A340 Fbx_Root A340_gear_R Null_Gear
+    2300066: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_F
+    2300068: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_L
+    2300070: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_M
+    3300000: A340_Engine2_A340_HN Null_A340 Fbx_Root A340_Engine2_L
+    3300002: A340_Engine2_A340_HN Null_A340 Fbx_Root A340_Engine2_R
+    3300004: A340_Engine2_A340_HN Null_A340 Fbx_Root_MeshPart0
+    3300006: A340_Engine2_A340_HN Null_A340 Fbx_Root_MeshPart1
+    3300008: A340_HN_Null_A340 Fbx_Root A340_Body
+    3300010: A340_HN_Null_A340 Fbx_Root A340_Body a340_body_stuff
+    3300012: A340_HN_Null_A340 Fbx_Root A340_Body a340_body_stuff a340_body_stuff2
+    3300014: A340_HN_Null_A340 Fbx_Root A340_Body A340_Gear_Cap_F_R Null_Body_Gear_Caps
+    3300016: A340_HN_Null_A340 Fbx_Root A340_Body A340_ruder
+    3300018: A340_HN_Null_A340 Fbx_Root A340_Body A340_Tail_rear_L
+    3300020: A340_HN_Null_A340 Fbx_Root A340_Body A340_Tail_rear_L A340_Tail_Elevator
+      Null_A340_Tail_Elevator
+    3300022: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L
+    3300024: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_1 Null_A340_Flap_1
+    3300026: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_2 Null_A340_Flap_2
+    3300028: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_3 Null_A340_Flap_3
+    3300030: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Gear_R_inside
+    3300032: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R
+    3300034: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_1R Null_A340_Flap_1R
+    3300036: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_2R Null_A340_Flap_2R
+    3300038: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_3R Null_A340_Flap_3R
+    3300040: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Gear_R_insideR
+    3300042: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_rear_R
+    3300044: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_rear_R A340_Tail_ElevatorR
+      Null_A340_Tail_ElevatorR
+    3300046: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_F_L
+    3300048: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_L
+    3300050: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_M_L
+    3300052: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_M_R
+    3300054: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_R
+    3300056: A340_HN_Null_A340 Fbx_Root A340_Engine1 A340_Engine1_L
+    3300058: A340_HN_Null_A340 Fbx_Root A340_Engine1 A340_Engine1_R
+    3300060: A340_HN_Null_A340 Fbx_Root A340_Engine1_MeshPart0
+    3300062: A340_HN_Null_A340 Fbx_Root A340_Engine1_MeshPart1
+    3300064: A340_HN_Null_A340 Fbx_Root A340_gear_R Null_Gear
+    3300066: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_F
+    3300068: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_L
+    3300070: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_M
+    4300000: A340_Engine2_A340_HN Null_A340 Fbx_Root_MeshPart0
+    4300002: A340_Engine2_A340_HN Null_A340 Fbx_Root_MeshPart1
+    4300004: A340_Engine2_A340_HN Null_A340 Fbx_Root A340_Engine2_L
+    4300006: A340_Engine2_A340_HN Null_A340 Fbx_Root A340_Engine2_R
+    4300008: A340_HN_Null_A340 Fbx_Root A340_Body
+    4300010: A340_HN_Null_A340 Fbx_Root A340_Body a340_body_stuff
+    4300012: A340_HN_Null_A340 Fbx_Root A340_Body a340_body_stuff a340_body_stuff2
+    4300014: A340_HN_Null_A340 Fbx_Root A340_Body A340_Gear_Cap_F_R Null_Body_Gear_Caps
+    4300016: A340_HN_Null_A340 Fbx_Root A340_Body A340_ruder
+    4300018: A340_HN_Null_A340 Fbx_Root A340_Body A340_Tail_rear_L
+    4300020: A340_HN_Null_A340 Fbx_Root A340_Body A340_Tail_rear_L A340_Tail_Elevator
+      Null_A340_Tail_Elevator
+    4300022: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L
+    4300024: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_1 Null_A340_Flap_1
+    4300026: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_2 Null_A340_Flap_2
+    4300028: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Flap_3 Null_A340_Flap_3
+    4300030: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_L A340_Gear_R_inside
+    4300032: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R
+    4300034: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_1R Null_A340_Flap_1R
+    4300036: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_2R Null_A340_Flap_2R
+    4300038: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Flap_3R Null_A340_Flap_3R
+    4300040: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_R A340_Gear_R_insideR
+    4300042: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_rear_R
+    4300044: A340_HN_Null_A340 Fbx_Root A340_Body A340_wing_rear_R A340_Tail_ElevatorR
+      Null_A340_Tail_ElevatorR
+    4300046: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_F_L
+    4300048: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_L
+    4300050: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_M_L
+    4300052: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_M_R
+    4300054: A340_HN_Null_A340 Fbx_Root A340_Body Null_Body_Gear_Caps A340_Gear_Cap_R
+    4300056: A340_HN_Null_A340 Fbx_Root A340_Engine1_MeshPart0
+    4300058: A340_HN_Null_A340 Fbx_Root A340_Engine1_MeshPart1
+    4300060: A340_HN_Null_A340 Fbx_Root A340_Engine1 A340_Engine1_L
+    4300062: A340_HN_Null_A340 Fbx_Root A340_Engine1 A340_Engine1_R
+    4300064: A340_HN_Null_A340 Fbx_Root A340_gear_R Null_Gear
+    4300066: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_F
+    4300068: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_L
+    4300070: A340_HN_Null_A340 Fbx_Root Null_Gear A340_gear_M
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
