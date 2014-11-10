@@ -5,7 +5,7 @@ public class ActiveObject : MonoBehaviour {
 
 	public enum TypeOfTrigger { Door, Something}
 	public TypeOfTrigger Type;
-	public GameObject ObjectSender;
+	public GameObject GameActiveObject;
 	
 	void OnTriggerStay(Collider other) {
 		if (other.tag == "Player"){
