@@ -48,8 +48,12 @@
   <ItemGroup>
      <Compile Include="Assets\Ball\Script\Control\CharacterMotorC.cs" />
      <Compile Include="Assets\Ball\Script\Control\FPSInputControllerC.cs" />
+     <Compile Include="Assets\Ball\Script\Control\GameCore.cs" />
      <Compile Include="Assets\Ball\Script\Control\PlayerProfile.cs" />
-     <Compile Include="Assets\Ball\Script\Object\WaterTrigger.cs" />
+     <Compile Include="Assets\Ball\Script\Control\SoundPlayerControl.cs" />
+     <Compile Include="Assets\Ball\Script\Control\SoundSetting.cs" />
+     <Compile Include="Assets\Ball\Script\Object\ActiveObject.cs" />
+     <Compile Include="Assets\Ball\Script\Object\DeadTrigger.cs" />
      <None Include="Assets\Standard Assets\Glass Refraction (Pro Only)\Sources\Shaders\Glass-Stained-BumpDistort.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderRGB.shader" />
@@ -65,6 +69,7 @@
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\MotionBlur.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\MobileBloom.shader" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlowCompose.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\MinMaxReduction.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\SSAA.shader" />
